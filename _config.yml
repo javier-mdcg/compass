@@ -1,6 +1,6 @@
 # general configuration
 url: http://excentris.net
-baseurl: ''
+baseurl: 'https://javier-mdcg.github.io/compass'
 
 # compass configuration
 compass:
